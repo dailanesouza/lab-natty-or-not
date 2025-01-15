@@ -1,10 +1,15 @@
-# Planilha Inteligente e Ia
+# PODCAST UX
 
-# Planilha Inteligente.
+# "UXperience: Explorando o Design Centrado no Usuário"
 
 ## Tecnologias utilizadas no projeto
 ChatGPT;
-Excel;
+Canva;
 
 ## 🚀 Resultados
-file:///C:\Users\Home\Documents\Planilha%20inteligente.xlsx
+https://www.canva.com/design/DAGcSVohWXQ/d_sufjChpzq-xJVz3tRjBw/edit?utm_content=DAGcSVohWXQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+
+
